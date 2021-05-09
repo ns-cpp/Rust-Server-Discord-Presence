@@ -5,7 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-URL = 'https://www.battlemetrics.com/servers/rust/10854743'
+URL = 'https://www.battlemetrics.com/servers/rust/10854743'  #find your server this web site
 
 
 
